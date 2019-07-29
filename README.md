@@ -7,3 +7,5 @@ It also provides some general update of library like books added recently and ke
 Admin account also has an option to Add new student id as the current student login lands to Student main menu only if the student is existing member of class.
 Overall this project of ours is being enveloped to help the students as well as staff of library to maintain the library in the best way possible and reduce the human efforts.
 
+
+Made with ❤ - Amulya
